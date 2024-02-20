@@ -21,6 +21,6 @@ The `GithubService` project is a Spring Boot application designed to interact wi
 - Maven 3.6.3 or newer.
 
 To retrieve a list of repositories for GitHub user use the following endpoint: 
-GET /github/repos?user=<username>
+ - **GET /github/repos?user=<username>**
 
 
