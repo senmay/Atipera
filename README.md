@@ -1,6 +1,6 @@
-# GithubService
+# RepoExplorer
 
-The `GithubService` project is a Spring Boot application designed to interact with the GitHub API to retrieve information about repositories and branches for specified GitHub users. The application filters out forks and aggregates branch data for each repository.
+The `RepoExplorer` project is a Spring Boot application designed to interact with the GitHub API to retrieve information about repositories and branches for specified GitHub users. The application filters out forks and aggregates branch data for each repository.
 
 ## Features
 
